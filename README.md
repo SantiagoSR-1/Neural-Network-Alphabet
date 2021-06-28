@@ -44,7 +44,7 @@ For a visual reference as to how the analysis was performed, please refer to the
 
 ![Alternative 1 Neural Network setup](Images/alt_model_1_setup.PNG)
 
-![Alternative 2 Neural Network setup](Images/alt_model_1_setup.PNG)
+![Alternative 2 Neural Network setup](Images/alt_model_2_setup.PNG)
 
 ![Comparison](Images/evaluation.PNG)
 
